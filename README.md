@@ -1,5 +1,5 @@
 # ProtoType Build on TinkerCad
-# This was taken as microprocessor and microcontroller final lab project:
+# Microprocessor and Microcontroller final lab project:
 ## Contributers: Prahalad Singh,Aman Kumar, Vidit Raheja and Hardik Choudhary 
 # Morse-Code-Communicator
 An Arduino device with it's code for morse-code &lt;-> English translation
