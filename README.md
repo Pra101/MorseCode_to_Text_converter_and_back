@@ -14,8 +14,6 @@ The user will have to press the option number through serial input to choose any
 The device contains 3 buttons: dots, dashes, and break. Each of these buttons have corresponding LEDs.
 The user enters the morse code for each character. After each character, the break button should be pressed to differentiate it from the next character's morse code. The translated morse code will be displayed on the seven segment display in the following manner:
 
-<img src="Images/Alphabets.jpg" width="500" alt="English Alphabet SSD Representation">
-
 
 This can be done indefinitely until the break button is pressed twice. This will take the user back to the menu screen.
 
