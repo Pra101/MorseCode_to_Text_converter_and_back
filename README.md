@@ -1,7 +1,7 @@
 # ProtoType Build on TinkerCad
 # Microprocessor and Microcontroller final lab project:
 ## Contributers: Prahalad Singh,Aman Kumar, Vidit Raheja and Hardik Choudhary 
-# Morse-Code-Communicator
+# Morse Code to Text converter and Vice Versa
 An Arduino device with it's code for morse-code &lt;-> English translation
 
 There are 2 options:
